@@ -1,0 +1,8 @@
+//========= Copyright Valve Corporation, All rights reserved. ============//
+//
+// Purpose: SDK 2013 CE game definition file (.fgd) 
+//
+//=============================================================================
+
+@include "halflife2.fgd"
+@include "sdk2013ce.fgd"

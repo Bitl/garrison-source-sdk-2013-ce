@@ -1,1 +1,1 @@
-devtools\bin\vpc.exe /2013 /sdk2013ce +game /mksln Game.sln
+devtools\bin\vpc.exe /2013 /garrison +game /mksln Game_garrison.sln
