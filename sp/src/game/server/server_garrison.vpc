@@ -18,7 +18,7 @@ $Configuration
 	}
 }
 
-$Project "Server"
+$Project "Server (Garrison)"
 {
 	$Folder	"Source Files"
 	{
